@@ -349,12 +349,12 @@ body{
 }
 
 .testmony-grid{
-    max-width: 1880px;
+    max-width: 1980px;
     display: grid;
     justify-content: center;
     align-items: center;
-    grid-template-columns: repeat(3,500px);
-    margin-left: 16rem;
+    grid-template-columns: repeat(3,600px);
+    margin-left: 19rem;
     grid-gap: 2rem;
 }
 
